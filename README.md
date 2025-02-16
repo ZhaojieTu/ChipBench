@@ -88,7 +88,7 @@ Note: Make sure to use the same commit as mentioned before.
 
 ## Dataset
 
-The dataset used in this project is available at [Google Drive](https://drive.google.com/drive/folders/1mElX4HAE1-XFEmp1foiG70OMd7onhXOz?usp=drive_link)
+The dataset used in this project is available at [Google Drive](https://drive.google.com/drive/folders/16SsBdHMdkbw0fb7Mjs4bGVtg3DQ5pUu0?usp=sharing)
 
 The statistics of our dataset:
 
