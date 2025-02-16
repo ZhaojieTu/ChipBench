@@ -34,10 +34,10 @@ This project relies on the following dependencies:
 ### Install via Docker
 
 ```bash
-docker pull tuzj/chipbench:v1.0
+docker pull rainingsky/chipbench:v1.0
 git clone https://github.com/ZhaojieTu/ChiPBench
 cd ChiPBench
-docker run -it -v $(pwd):/ChiPBench tuzj/chipbench:v1.0 bash
+docker run -it -v $(pwd):/ChiPBench rainingsky/chipbench:v1.0 bash
 ```
 
 
